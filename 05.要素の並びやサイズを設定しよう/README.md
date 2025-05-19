@@ -140,9 +140,9 @@ index.html
 
     ```css
     /* temperatureクラスに適用するスタイル */
-    .temperature {
+   .temperature {
       background-color: #FFD8B2;
-    }
+    } 
     
     /* humidityクラスに適用するスタイル */
     .humidity {
